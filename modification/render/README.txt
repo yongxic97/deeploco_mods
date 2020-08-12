@@ -1,0 +1,1 @@
+Replace the two files at render/shaders directory to fix the render issue

@@ -1,0 +1,14 @@
+{
+"Type": "var3d_path",
+
+"Params": 
+[
+	{
+		"PathWidth0": 2,
+		"PathLength": 10,
+		"PathTurnLength": 3,
+		"PathHeight0": 2,
+		"PathHeight1": 1
+	}
+]
+}

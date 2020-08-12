@@ -1,0 +1,4 @@
+new initial model: trained for 1000000 iterations with march and no other modification
+begin at 18:00
+new reward function modified at 2020-8-11
+
